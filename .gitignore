@@ -1,0 +1,3 @@
+# ignore truffle project files
+
+/node_modules
